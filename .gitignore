@@ -1,1 +1,4 @@
 .idea
+/arduino-ui.spec
+/build/*
+/dist/*

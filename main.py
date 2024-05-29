@@ -15,8 +15,8 @@ class App(ctk.CTk):
         super().__init__()
         self.protocol("WM_DELETE_WINDOW", self.quit)
 
-        self.min_angle: int = 0
-        self.max_angle: int = 180
+        self.min_angle: int = 180
+        self.max_angle: int = 0
         self.current_angle: int = 0
 
         self._label_font_size = 16
