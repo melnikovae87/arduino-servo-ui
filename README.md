@@ -29,11 +29,8 @@ pyinstaller main.py \
   --clean \
   --onefile \
   --windowed \
-  --hide-console hide-early \
-  --target-architecture x86_64 \
-  --name arduino-ui \
-  --icon=assets/arduino.ico \
-  --splash=assets/arduino.png    
+  --icon=assets/iot.ico \
+  --name ArduinoUI
 ```
 
 
