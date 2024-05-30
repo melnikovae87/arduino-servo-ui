@@ -1,3 +1,5 @@
+![app_cover.png](assets/iot.ico)
+
 # UI Arduino Servo Control
 
 ### Specification
