@@ -2,6 +2,12 @@
 
 # UI Arduino Servo Control
 
+### Release 1.0 _(30.05.2024)_
+
+- [ArduinoUI for MacOS](https://github.com/melnikovae87/arduino-servo-ui/releases/download/1.0/ArduinoUI_Mac.zip)
+- [ArduinoUI for Windows](https://github.com/melnikovae87/arduino-servo-ui/releases/download/1.0/ArduinoUI_Win.zip)
+- [Arduino Code](https://github.com/melnikovae87/arduino-servo-ui/releases/download/1.0/serial_com.zip)
+
 ### Specification
 
 ```text
