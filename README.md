@@ -30,6 +30,8 @@ ANGL<90> - set servo angle for connected device
 4. Connect Arduino UNO/NANO and UPLOAD code
 5. **IMPORTANT**: do not open **Serial Monitor** in IDE (allowed only one connection to Serial Port on OS Win/Linux)
 
+![app_cover.png](assets/interface.png)
+
 ### [Build EXE file script](https://pyinstaller.org/en/stable/usage.html)
 
 ```shell
